@@ -1,0 +1,9 @@
+APPROACH:
+
+
+COLLECTING DATA SETS: First of all we have to collect or gather information about project and plan accordingly. Mainly for this project we have collected data sets from https://morth.nic.in/black-spot.
+COVERTING PDF INTO CSV FILE: We must convert it into CSV file to easily manipulate data if needed.
+IMPORTING PACKAGES: Packages to be neccessarily imported for any code.In this project we have imported Numpy,Pandas,Geopy,Basemap,etc.
+WRITING CODE:The writing of code starts from importing packages,and taking input from the data sets.Using plot() command we can plot the accident spot on Indian map.It also displays lattitudes and longitudes of the data set which we have taken as input.
+EXECUTION OF CODE:By using JUPYTER NOTEBOOK we have executed the code.
+
